@@ -8,8 +8,8 @@ Group project to build Tic Tac Toe using OOP in Javascript
 
 👋 Vastradamus
 
-👋 Tung
+👋 Miles
 
-👋
+👋Tung
 
 👋
